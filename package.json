@@ -1,0 +1,29 @@
+{
+  "title": "Aroin Team - Github Page",
+  "name": "aroin-team",
+  "version": "0.0.1",
+  "description": "Github page fpr Aroin team.",
+  "keywords": [
+    "aroin",
+    "team",
+    "software",
+    "web",
+    "startup",
+    "project"
+  ],
+  "homepage": "https://aroin.github.io",
+  "license": "MIT",
+  "author": "Aroin Team",
+  "contributors": [
+    "Hamid Taher (https://h4mit.github.io)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aroin/aroin.github.io.git"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.11.1"
+  }
+}
