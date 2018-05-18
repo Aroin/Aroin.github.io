@@ -6,10 +6,19 @@
 
 body {
     padding-top: 54px;
+    color: #004085;
+}
+
+.logo {
+    width: 45px;
 }
 
 @media (min-width: 992px) {
     body {
         padding-top: 56px;
     }
+}
+
+.bg-dark {
+    background-color: #004085!important;
 }
