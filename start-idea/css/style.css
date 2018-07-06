@@ -25,12 +25,7 @@
   font-weight: 300;
 }
 
-html {
-  width: 122vh;
-}
-
 body {
-  position: relative;
   font-family: Vazir;
   direction: rtl;
 }  
