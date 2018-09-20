@@ -1,0 +1,34 @@
+{
+	"APP": {
+		"name": "Aroin.ir",
+		"title": "Aroin Group",
+		"footer": "Be Aroin ;)"
+	},
+	"MENU": {
+		"list": "List",
+		"home": "Home",
+		"contact": "Contact",
+		"more": "More",
+		"map": "Map",
+		"dashboard": "Dashboard",
+		"search": "Search",
+		"news": "News",
+		"telegram": "Telegram",
+		"github": "Github",
+		"about": "About Aroin"
+	},
+	"FORM": {
+		"required": "Required",
+		"min": "Must be longer than {min} characters"
+	},
+	"ABOUT": {
+		"about_more": "Know more about us."
+	},
+	"CONTACT": {},
+	"HOME": {
+		"wlc": "Welcome to Home Page.",
+		"read_more": "Read more",
+		"aroin": "Aroin Group :)",
+		"about_us": "Let us introduce our team to you"
+	}
+}
