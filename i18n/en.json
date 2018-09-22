@@ -15,7 +15,8 @@
 		"news": "News",
 		"telegram": "Telegram",
 		"github": "Github",
-		"about": "About Aroin"
+		"about": "About Aroin",
+		"timeline": "Timeline"
 	},
 	"FORM": {
 		"required": "Required",

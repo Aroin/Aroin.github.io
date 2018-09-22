@@ -1,0 +1,55 @@
+{
+  "fa": [
+    {
+      "avatar": "https://avatars2.githubusercontent.com/u/4971751?v=4&s=460",
+      "description": "من حمید طاهری، فارغ التحصیل کارشناسی ارشد نرم افزار هستم، علاقه من به برنامه نویسی از سن 15 سالگی و زبان برنامه نویسی Quick Basic شروع شد. همیشه ایده های مختلفی برای اجرا کردن و خلق آن های توی ذهنم داشتم و حالا آماده ام که تمام آن ها را در گروه آروئین به سرنجام برسونم.",
+      "family": "طاهری",
+      "name": "حمید",
+      "post": "توسعه دهنده"
+    },
+    {
+      "avatar": "https://avatars0.githubusercontent.com/u/17237906?s=460&v=4",
+      "description": "من، سینا طاهریا، فارغ‌التحصیل مهندسی صنایع از دانشگاه صنعتی شریف هستم. ما در آروئین به دنبال توسعه محصولاتی هستیم که به شما در بهبود کیفیت زندگی، کمک کند",
+      "family": "طاهریا",
+      "name": "سینا",
+      "post": "مسئول اجرایی"
+    }
+  ],
+  "en": [
+    {
+      "avatar": "https://avatars2.githubusercontent.com/u/4971751?v=4&s=460",
+      "description": "I am Hamid Taheri. I have M.Sc in software engineering. I started coding first time when i was 15 with Quick Basic. There are a lot of ideas in my brain and i hope to make them happen by working in Aroin.",
+      "family": "Taheri",
+      "name": "Hamid",
+      "post": "Full stack developer"
+    },
+    {
+      "avatar": "https://avatars0.githubusercontent.com/u/17237906?s=460&v=4",
+      "description": "I'm Sina Taheria. I graduated from Sharif University of Technology in industrial engineering. We are here in Aroin to develop such products which will help you in improving the quality of life.",
+      "family": "Taheria",
+      "name": "Sina",
+      "post": "Bussiness developer - Web Developer"
+    },
+    {
+      "avatar": "https://avatars0.githubusercontent.com/u/10259426?s=460&v=4",
+      "description": "I am Amin mazinani. I Graduated from Amirkabir University of technology in Computer Software Engineering, I Develope android apps, Server side Rest APIs and making fun In Aroin :)",
+      "family": "Mazinani",
+      "name": "Amin",
+      "post": "Full-Stack Developer"
+    },
+    {
+      "avatar": "https://avatars2.githubusercontent.com/u/3521067?s=460&v=4",
+      "description": "I am Salman Najmeddin.I have graduated in software engineering.I'm interested in implementing the proposed ideas in this group.I hope these ideas will be useful for you.",
+      "family": "Najmoddin",
+      "name": "Salman",
+      "post": "Web developer"
+    },
+    {
+      "avatar": "https://avatars0.githubusercontent.com/u/39418248?s=460&v=4",
+      "description": "I'm Milad Najmeddin and I'm a student of software engeineering.I'm designing different works .also, I'm interested in implementing good ideas.",
+      "family": "Najmoddin",
+      "name": "Milad",
+      "post": "UI/UX"
+    }
+  ]
+}
