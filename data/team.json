@@ -13,6 +13,13 @@
       "family": "طاهریا",
       "name": "سینا",
       "post": "مسئول اجرایی"
+    },
+    {
+      "avatar": "https://avatars3.githubusercontent.com/u/43580634?s=460&v=4",
+      "description": "من فرزان خمسه ، فارغ التحصيل مهندسي نرم افزار هستم. حدود ٤ سال برنامه نويسي اندرويد و جاوا انجام دادم و امدم تا به كمك تيم قديمي آروئين ، ايده ها و طرح هاي ذهنمون رو به واقعيت تبديل كنيم.",
+      "family": "فرزان",
+      "name": "خمسه",
+      "post": "توسعه دهنده اندروید"
     }
   ],
   "en": [
@@ -50,6 +57,13 @@
       "family": "Najmoddin",
       "name": "Milad",
       "post": "UI/UX"
+    },
+    {
+      "avatar": "https://avatars3.githubusercontent.com/u/43580634?s=460&v=4",
+      "description": "I am Farzan Khamse.I graduated in software engineering. It’s about 4years I’ve started my job on java and android programming, I am here to try our ideas and plans come true  by the help of the old team, Aroin.",
+      "family": "Khamse",
+      "name": "Farzan",
+      "post": "Android developer"
     }
   ]
 }
