@@ -15,6 +15,13 @@
       "post": "مسئول اجرایی"
     },
     {
+      "avatar": "https://avatars2.githubusercontent.com/u/43602022?s=460&v=4",
+      "description": "سعید ابراهیمیان هستم، فارغ التحصیل کارشناسی مهندسی مکانیک و کارشناسی ارشد مهندسی صنایع. سابقه مدیریت پروژه در صنایع نفت و گاز را دارم. در آروئین با تخصص های مختلف کنار هم جمع شدیم تا حرف تازه ای بزنیم.",
+      "family": "ابراهیمیان",
+      "name": "سعید",
+      "post": "مسئول اجرایی"
+    },
+    {
       "avatar": "https://avatars3.githubusercontent.com/u/43580634?s=460&v=4",
       "description": "من فرزان خمسه ، فارغ التحصيل مهندسي نرم افزار هستم. حدود ٤ سال برنامه نويسي اندرويد و جاوا انجام دادم و امدم تا به كمك تيم قديمي آروئين ، ايده ها و طرح هاي ذهنمون رو به واقعيت تبديل كنيم.",
       "family": "فرزان",
@@ -64,6 +71,13 @@
       "family": "Khamse",
       "name": "Farzan",
       "post": "Android developer"
+    },
+    {
+      "avatar": "https://avatars2.githubusercontent.com/u/43602022?s=460&v=4",
+      "description": "My name is Saeed Ebrahimiyan. I am a bachelor of mechanical engineering and a master of industrial engineering. I was project manager in the field of oil & gas industry. We gather in Aroin with different skills to bring new ideas.",
+      "family": "Ebrahimian",
+      "name": "Saeed",
+      "post": "Bussiness developer"
     }
   ]
 }
