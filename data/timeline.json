@@ -2,6 +2,186 @@
   {
     "fa": {
       "color": "green",
+      "description": "سایت همایش ITTalks [آبان 1396]"
+    },
+    "en": {
+      "color": "green",
+      "description": "ITTalks conference [November 2017]"
+    }
+  },
+  {
+    "fa": {
+      "color": "green",
+      "description": "سایت پروژه 'ر' راهنمای آموزشی [مرداد 1396]"
+    },
+    "en": {
+      "color": "green",
+      "description": "Site for 'Re' project - Educational Guide [August 2017]"
+    }
+  },
+  {
+    "fa": {
+      "color": "green",
+      "description": "بات تلگرامی پروژه 'ر' راهنمای آموزشی [تیر 1396]"
+    },
+    "en": {
+      "color": "green",
+      "description": "Telegram bot for 'Re' project - Educational Guide [July 2017]"
+    }
+  },
+  {
+    "fa": {
+      "color": "green",
+      "description": "بات تلگرام پخش هدف - باشگاه مشتریان [فروردین 1396]"
+    },
+    "en": {
+      "color": "green",
+      "description": "Hadaf Broadcast Telegram bot - Club of Customers [March 2017]"
+    }
+  },
+  {
+    "fa": {
+      "color": "green",
+      "description": "سامانه رای گیری آنلاین پست الکترونیکی محور [اسفند 1395]"
+    },
+    "en": {
+      "color": "green",
+      "description": "E-mail Online Polling System [March 2017]"
+    }
+  },
+  {
+    "fa": {
+      "color": "green",
+      "description": "سایت دانشگاه آزاد اسلامی واحد سمنان [مرداد 1394]"
+    },
+    "en": {
+      "color": "green",
+      "description": "Islamic azad university of Semnan branch [August 2015]"
+    }
+  },
+  {
+    "fa": {
+      "color": "green",
+      "description": "طاووس - طرح ایمنی و سلامت [فروردین 1394]"
+    },
+    "en": {
+      "color": "green",
+      "description": "Tawoos - Safety and health plan [April 2015]"
+    }
+  },
+  {
+    "fa": {
+      "color": "green",
+      "description": "پروژه هرن [آبان 1393]"
+    },
+    "en": {
+      "color": "green",
+      "description": "Heren project [January 2015]"
+    }
+  },
+  {
+    "fa": {
+      "color": "green",
+      "description": "درس پرداز - MooC [آبان 1393]"
+    },
+    "en": {
+      "color": "green",
+      "description": "Darspardaz - Massive Open Online Courses (MooC) [September 2014]"
+    }
+  },
+  {
+    "fa": {
+      "color": "green",
+      "description": "سامانه طرح اخطلاط [شهریور 1393]"
+    },
+    "en": {
+      "color": "green",
+      "description": "Mix design system [September 2014]"
+    }
+  },
+  {
+    "fa": {
+      "color": "green",
+      "description": "مسابقه پل ماکارونی سمنان [خرداد 1393]"
+    },
+    "en": {
+      "color": "green",
+      "description": "Semnan Pasta Bridge Match [June 2014]"
+    }
+  },
+  {
+    "fa": {
+      "color": "green",
+      "description": "ُسایت شخصی آیت الله سید محمد شاهچراغی [فروردین 1393]"
+    },
+    "en": {
+      "color": "green",
+      "description": "Ayatollah Seyed Mohammad Shahcheraghi Personal Website [March 2014]"
+    }
+  },
+  {
+    "fa": {
+      "color": "green",
+      "description": "ُسامانه صنف پوشاک سمنان [اسفند 1392]"
+    },
+    "en": {
+      "color": "green",
+      "description": "Semnan garment department portal [March 2014]"
+    }
+  },
+  {
+    "fa": {
+      "color": "green",
+      "description": "ُسامانه طرح بازرسی ساپکو [دی 1392]"
+    },
+    "en": {
+      "color": "green",
+      "description": "SAPCO Inspection System [January 2014]"
+    }
+  },
+  {
+    "fa": {
+      "color": "green",
+      "description": "سامانه پست الکترونیک - دانشگاه آزاد اسلامی واحد سمنان [مهر 1392]"
+    },
+    "en": {
+      "color": "green",
+      "description": "Mail accounting - Semnan Azad university [October 2013]"
+    }
+  },
+  {
+    "fa": {
+      "color": "green",
+      "description": "برنامه اندروید بارون رحمت [مرداد 1392]"
+    },
+    "en": {
+      "color": "green",
+      "description": "Barone Rahmat android application [August 2013]"
+    }
+  },
+  {
+    "fa": {
+      "color": "green",
+      "description": "سایت مسابقه بتن [تیر 1392]"
+    },
+    "en": {
+      "color": "green",
+      "description": "Concrete conference site [June 2013]"
+    }
+  },
+  {
+    "fa": {
+      "color": "green",
+      "description": "سایت همایش امام هادی (ع) [خرداد 1392]"
+    },
+    "en": {
+      "color": "green",
+      "description": "Imam Hadi conference site [June 2013]"
+    }
+  },
+  {
+    "fa": {
+      "color": "green",
       "description": "راه اندازی اپلیکیشن موبایل خیریه مهدکرامت. [فروردین 1392]"
     },
     "en": {

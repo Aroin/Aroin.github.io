@@ -6,4 +6,7 @@
 
  */
 
- 
+ .ant-card-meta-description {
+     text-align: justify;
+     height: 150px;
+ }
