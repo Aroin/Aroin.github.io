@@ -20785,5 +20785,11 @@ li.ant-tree-treenode-disabled > .ant-tree-node-content-wrapper:hover {
 
 .ant-card-meta-description {
     text-align: justify;
-    height: 150px;
+}
+
+
+@media screen and (min-width: 530px) {
+    .ant-card-meta-description {
+        height: 150px;
+    }
 }
