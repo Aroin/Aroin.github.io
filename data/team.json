@@ -1,104 +1,79 @@
-{
-  "fa": [
-    {
-      "avatar": "https://avatars2.githubusercontent.com/u/4971751?v=4&s=460",
-      "description": "حمیط هستم، کامپیوتر و دنیای کدهای درونش از 15 سالگی برام جالب بود و با زبان Quick Basic پا به این عرصه گذاشتم  و حالا با مدرک کارشناسی ارشد نرم افزار و مسئولیت های مختلف در پروژه های گوناگون قرار بر این گذاشتیم تا با آروئین، اتفاقات نویی رقم بزنیم.",
-      "family": "طاهری",
-      "name": "حمید",
-      "post": "توسعه دهنده"
-    },
-    {
-      "avatar": "https://avatars0.githubusercontent.com/u/17237906?s=460&v=4",
-      "description": "من، سینا طاهریا، فارغ‌التحصیل مهندسی صنایع از دانشگاه صنعتی شریف هستم. ما در آروئین به دنبال توسعه محصولاتی هستیم که به شما در بهبود کیفیت زندگی، کمک کند",
-      "family": "طاهریا",
-      "name": "سینا",
-      "post": "مسئول اجرایی"
-    },
-    {
-      "avatar": "https://avatars2.githubusercontent.com/u/3521067?s=460&v=4",
-      "description": "سلمان نجم الدین هستم فارغ التحصیل رشته نرم افرار در ارویین هستم چون قراره در ارویین ایده های جالبی رو پیاده سازی کنیم",
-      "family": "نجم الدین",
-      "name": "سلمان",
-      "post": "توسعه دهنده"
-    },
-    {
-      "avatar": "https://avatars0.githubusercontent.com/u/10259426?s=460&v=4",
-      "description": "من، امین مزینانی فارغ‌التحصیل رشته مهندسی نرم‌افزار از دانشگاه پلی تکنیک تهران هستم، از ۱۰ سال گذشته تا الان توسعه دهنده سرور در نرم‌افزار های سازمانی،  توسعه دهنده کلاینت های اندروید و وب اپلیکیشن بوده ام.",
-      "family": "مزینانی",
-      "name": "امین",
-      "post": "توسعه دهنده"
-    },
-    {
-      "avatar": "https://avatars0.githubusercontent.com/u/39418248?s=460&v=4",
-      "description": "من میلاد نجم الدین هستم دانشجوی رشته نرم افزار و علاقمند به طراحی رابط کاربری امیدوارم در آرویین با هم طرحای خوبی رو عملیاتی کنیم.",
-      "family": "نجم الدین",
-      "name": "میلاد",
-      "post": "طراح رابط کاربری"
-    },
-    {
-      "avatar": "https://avatars2.githubusercontent.com/u/43602022?s=460&v=4",
-      "description": "سعید ابراهیمیان هستم، فارغ التحصیل کارشناسی مهندسی مکانیک و کارشناسی ارشد مهندسی صنایع. سابقه مدیریت پروژه در صنایع نفت و گاز را دارم. در آروئین با تخصص های مختلف کنار هم جمع شدیم تا حرف تازه ای بزنیم.",
-      "family": "ابراهیمیان",
-      "name": "سعید",
-      "post": "مسئول اجرایی"
-    },
-    {
-      "avatar": "https://avatars3.githubusercontent.com/u/43580634?s=460&v=4",
-      "description": "من فرزان خمسه ، فارغ التحصيل مهندسي نرم افزار هستم. حدود ٤ سال برنامه نويسي اندرويد و جاوا انجام دادم و امدم تا به كمك تيم قديمي آروئين ، ايده ها و طرح هاي ذهنمون رو به واقعيت تبديل كنيم.",
-      "family": "خمسه",
-      "name": "فرزان",
-      "post": "توسعه دهنده اندروید"
-    }
-  ],
-  "en": [
-    {
-      "avatar": "https://avatars2.githubusercontent.com/u/4971751?v=4&s=460",
-      "description": "I am Hamid Taheri. I have M.Sc in software engineering. I started coding first time when i was 15 with Quick Basic. There are a lot of ideas in my brain and i hope to make them happen by working in Aroin.",
-      "family": "Taheri",
-      "name": "Hamid",
-      "post": "Full stack developer"
-    },
-    {
-      "avatar": "https://avatars0.githubusercontent.com/u/17237906?s=460&v=4",
-      "description": "I'm Sina Taheria. I graduated from Sharif University of Technology in industrial engineering. We are here in Aroin to develop such products which will help you in improving the quality of life.",
-      "family": "Taheria",
-      "name": "Sina",
-      "post": "Bussiness developer - Web Developer"
-    },
-    {
-      "avatar": "https://avatars0.githubusercontent.com/u/10259426?s=460&v=4",
-      "description": "I am Amin mazinani. I Graduated from Amirkabir University of technology in Computer Software Engineering, I Develope android apps, Server side Rest APIs and making fun In Aroin :)",
-      "family": "Mazinani",
-      "name": "Amin",
-      "post": "Full-Stack Developer"
-    },
-    {
-      "avatar": "https://avatars2.githubusercontent.com/u/3521067?s=460&v=4",
-      "description": "I am Salman Najmeddin.I have graduated in software engineering.I'm interested in implementing the proposed ideas in this group.I hope these ideas will be useful for you.",
-      "family": "Najmoddin",
-      "name": "Salman",
-      "post": "Web developer"
-    },
-    {
-      "avatar": "https://avatars0.githubusercontent.com/u/39418248?s=460&v=4",
-      "description": "I'm Milad Najmeddin and I'm a student of software engeineering.I'm designing different works .also, I'm interested in implementing good ideas.",
-      "family": "Najmoddin",
-      "name": "Milad",
-      "post": "UI/UX"
-    },
-    {
-      "avatar": "https://avatars3.githubusercontent.com/u/43580634?s=460&v=4",
-      "description": "I am Farzan Khamse.I graduated in software engineering. It’s about 4years I’ve started my job on java and android programming, I am here to try our ideas and plans come true  by the help of the old team, Aroin.",
-      "family": "Khamse",
-      "name": "Farzan",
-      "post": "Android developer"
-    },
-    {
-      "avatar": "https://avatars2.githubusercontent.com/u/43602022?s=460&v=4",
-      "description": "My name is Saeed Ebrahimiyan. I am a bachelor of mechanical engineering and a master of industrial engineering. I was project manager in the field of oil & gas industry. We gather in Aroin with different skills to bring new ideas.",
-      "family": "Ebrahimian",
-      "name": "Saeed",
-      "post": "Bussiness developer"
-    }
-  ]
-}
+[
+  {
+    "name": "حمید طاهری",
+    "role": "راهبر تیم و توسعه‌دهنده‌ی ارشد",
+    "description": "از نوجوانی با برنامه‌نویسی همراه بوده‌ام و با تحصیلات کارشناسی ارشد نرم‌افزار و تجربه‌ی نقش‌های گوناگون، امروز راهبری تیم آروئین را برعهده دارم تا ایده‌ها را به راه‌حل‌هایی تازه و قابل اتکا تبدیل کنیم.",
+    "avatar": "https://github.com/h4mit.png",
+    "github": "https://github.com/h4mit"
+  },
+  {
+    "name": "سینا طاهریا",
+    "role": "توسعه‌ی کسب‌وکار",
+    "description": "پس از تحصیل مهندسی صنایع در دانشگاه صنعتی شریف، دوره‌ی دکتری خود را در کلگری کانادا به پایان رساندم. در آروئین با تکیه بر نگاه تحلیلی و تجربه‌ی بین‌المللی، به توسعه‌ی محصول و کسب‌وکار کمک می‌کنم.",
+    "avatar": "https://github.com/sina-thr.png",
+    "github": "https://github.com/sina-thr"
+  },
+  {
+    "name": "امین مزینانی",
+    "role": "توسعه‌دهنده‌ی فول‌استک",
+    "description": "دانش‌آموخته‌ی مهندسی نرم‌افزار از دانشگاه صنعتی امیرکبیر هستم و بیش از یک دهه در توسعه‌ی سامانه‌های سازمانی، سرویس‌های سمت سرور و اپلیکیشن‌های وب و اندروید تجربه دارم.",
+    "avatar": "https://github.com/aminmazi.png",
+    "github": "https://github.com/aminmazi"
+  },
+  {
+    "name": "سروش صالحی",
+    "role": "راهبر فنی",
+    "description": "دانش‌آموخته‌ی کارشناسی ارشد مهندسی نرم‌افزار از دانشگاه فردوسی مشهد و راهبر فنی چندین کسب‌وکار فین‌تک هستم. در آروئین تجربه‌هایم را کنار توان تیم می‌گذارم تا به رشد فنی و توسعه‌ی محصولات کمک کنم.",
+    "avatar": "https://github.com/soroushsalehi404.png",
+    "github": "https://github.com/soroushsalehi404"
+  },
+  {
+    "name": "سعید ابراهیمیان",
+    "role": "مدیریت و توسعه‌ی کسب‌وکار",
+    "description": "کارشناسی مهندسی مکانیک و کارشناسی ارشد مهندسی صنایع دارم و در مدیریت پروژه‌های صنعت نفت و گاز فعالیت کرده‌ام. در آروئین تجربه‌های متنوع را برای ساختن ارزش تازه کنار هم قرار می‌دهم.",
+    "avatar": "https://github.com/saeedebrnn.png",
+    "github": "https://github.com/saeedebrnn"
+  },
+  {
+    "name": "میلاد نادری",
+    "role": "راهبر فرانت‌اند",
+    "description": "دانش‌آموخته‌ی کارشناسی ارشد مهندسی نرم‌افزار هستم و سال‌ها در شرکت‌های فین‌تک فعالیت کرده‌ام. اکنون به‌عنوان راهبر فرانت‌اند در توسن کار می‌کنم و در آروئین، تجربه‌ام را برای ساخت رابط‌هایی سریع، دقیق و مقیاس‌پذیر کنار توان تیم می‌گذارم.",
+    "avatar": "https://github.com/miladnaderiwork.png",
+    "github": "https://github.com/miladnaderiwork"
+  },
+  {
+    "name": "ایمان کاشی",
+    "role": "راهبر بک‌اند",
+    "description": "کارشناسی ارشد مهندسی نرم‌افزار را از دانشگاه سمنان گرفته‌ام و مسیر حرفه‌ای‌ام را در فین‌تک آغاز کرده‌ام. اکنون مدیر فنی پروژه‌ی تخصیص اعتبار بانک تجارت هستم و در آروئین، ایده‌ها را به راهکارهای اجرایی تبدیل می‌کنم.",
+    "avatar": "https://github.com/im4nk.png",
+    "github": "https://github.com/im4nk"
+  },
+  {
+    "name": "نیلوفر احمدی",
+    "role": "طراح ارشد محصول",
+    "description": "سال‌ها تجربه‌ی مدیریت طراحی محصول در شرکت‌های فین‌تک دارم. هنر، خلاقیت و دانش طراحی را کنار هم می‌گذارم تا محصولات برای کاربران ساده‌تر و دوست‌داشتنی‌تر شوند و در آروئین، ایده‌های تیم به تجربه‌هایی ملموس تبدیل شوند.",
+    "avatar": "https://github.com/nilufari73.png",
+    "github": "https://github.com/nilufari73"
+  },
+  {
+    "name": "فرزان خمسه",
+    "role": "توسعه‌دهنده‌ی اندروید",
+    "description": "دانش‌آموخته‌ی مهندسی نرم‌افزار و توسعه‌دهنده‌ی جاوا و اندروید هستم. در آروئین کمک می‌کنم طرح‌ها و ایده‌های تیم به محصولاتی واقعی، روان و در دسترس تبدیل شوند.",
+    "avatar": "https://github.com/farzankh72.png",
+    "github": "https://github.com/farzankh72"
+  },
+  {
+    "name": "فائزه گومه",
+    "role": "کارشناس محصول",
+    "description": "دانش‌آموخته‌ی مهندسی نرم‌افزار از دانشگاه صنعتی امیرکبیر هستم و در حوزه‌ی محصول فعالیت می‌کنم. با پیوند نگاه فنی و نیاز کاربران، کمک می‌کنم ایده‌ها به تجربه‌هایی دقیق، کاربردی و قابل رشد تبدیل شوند.",
+    "avatar": "",
+    "initials": "ف‌گ"
+  },
+  {
+    "name": "آرتا سعدالدین",
+    "role": "توسعه‌دهنده‌ی جوان",
+    "description": "سه سال است برنامه‌نویسی می‌کنم و در مسابقات ملی مهارت فنی‌وحرفه‌ای نیز مقام آورده‌ام. در آروئین کنار اعضای باتجربه‌ی تیم یاد می‌گیرم و برای تبدیل ایده‌هایم به محصول تلاش می‌کنم.",
+    "avatar": "https://github.com/A8rts.png",
+    "github": "https://github.com/A8rts"
+  }
+]

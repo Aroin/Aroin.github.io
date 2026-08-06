@@ -1,222 +1,32 @@
 [
-  {
-    "fa": {
-      "color": "green",
-      "description": "فروشگاه اینترنتی گوفکا [مرداد 1397]"
-    },
-    "en": {
-      "color": "green",
-      "description": "Gufka shop [August 2018]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "سایت همایش ITTalks [آبان 1396]"
-    },
-    "en": {
-      "color": "green",
-      "description": "ITTalks conference [November 2017]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "سایت پروژه 'ر' راهنمای آموزشی [مرداد 1396]"
-    },
-    "en": {
-      "color": "green",
-      "description": "Site for 'Re' project - Educational Guide [August 2017]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "بات تلگرامی پروژه 'ر' راهنمای آموزشی [تیر 1396]"
-    },
-    "en": {
-      "color": "green",
-      "description": "Telegram bot for 'Re' project - Educational Guide [July 2017]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "بات تلگرام پخش هدف - باشگاه مشتریان [فروردین 1396]"
-    },
-    "en": {
-      "color": "green",
-      "description": "Hadaf Broadcast Telegram bot - Club of Customers [March 2017]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "سامانه رای گیری آنلاین پست الکترونیکی محور [اسفند 1395]"
-    },
-    "en": {
-      "color": "green",
-      "description": "E-mail Online Polling System [March 2017]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "سایت دانشگاه آزاد اسلامی واحد سمنان [مرداد 1394]"
-    },
-    "en": {
-      "color": "green",
-      "description": "Islamic azad university of Semnan branch [August 2015]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "طاووس - طرح ایمنی و سلامت [فروردین 1394]"
-    },
-    "en": {
-      "color": "green",
-      "description": "Tawoos - Safety and health plan [April 2015]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "پروژه هرن [آبان 1393]"
-    },
-    "en": {
-      "color": "green",
-      "description": "Heren project [January 2015]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "درس پرداز - MooC [آبان 1393]"
-    },
-    "en": {
-      "color": "green",
-      "description": "Darspardaz - Massive Open Online Courses (MooC) [September 2014]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "سامانه طرح اخطلاط [شهریور 1393]"
-    },
-    "en": {
-      "color": "green",
-      "description": "Mix design system [September 2014]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "مسابقه پل ماکارونی سمنان [خرداد 1393]"
-    },
-    "en": {
-      "color": "green",
-      "description": "Semnan Pasta Bridge Match [June 2014]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "ُسایت شخصی آیت الله سید محمد شاهچراغی [فروردین 1393]"
-    },
-    "en": {
-      "color": "green",
-      "description": "Ayatollah Seyed Mohammad Shahcheraghi Personal Website [March 2014]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "ُسامانه صنف پوشاک سمنان [اسفند 1392]"
-    },
-    "en": {
-      "color": "green",
-      "description": "Semnan garment department portal [March 2014]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "ُسامانه طرح بازرسی ساپکو [دی 1392]"
-    },
-    "en": {
-      "color": "green",
-      "description": "SAPCO Inspection System [January 2014]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "سامانه پست الکترونیک - دانشگاه آزاد اسلامی واحد سمنان [مهر 1392]"
-    },
-    "en": {
-      "color": "green",
-      "description": "Mail accounting - Semnan Azad university [October 2013]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "برنامه اندروید بارون رحمت [مرداد 1392]"
-    },
-    "en": {
-      "color": "green",
-      "description": "Barone Rahmat android application [August 2013]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "سایت مسابقه بتن [تیر 1392]"
-    },
-    "en": {
-      "color": "green",
-      "description": "Concrete conference site [June 2013]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "سایت همایش امام هادی (ع) [خرداد 1392]"
-    },
-    "en": {
-      "color": "green",
-      "description": "Imam Hadi conference site [June 2013]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "راه اندازی اپلیکیشن موبایل خیریه مهدکرامت. [فروردین 1392]"
-    },
-    "en": {
-      "color": "green",
-      "description": "Establishment of Mahdekarmat Charity Mobile application. [March 2013]"
-    }
-  },
-  {
-    "fa": {
-      "color": "green",
-      "description": "راه اندازی سایت خیریه مهدکرامت. [اسفند 1391]"
-    },
-    "en": {
-      "color": "green",
-      "description": "Establishment of Mahdekarmat Charity Site. [February 2013]"
-    }
-  },
-  {
-    "fa": {
-      "color": "red",
-      "description": "تشکیل گروه آروئین. [اسفند 1391]"
-    },
-    "en": {
-      "color": "red",
-      "description": "Create the Aroin Team. [February 2013]"
-    }
-  }
+  {"date":"محصولات امروز","title":"گلدون","url":"https://golddon.ir/fa/","recent":true},
+  {"date":"محصولات امروز","title":"جیبلت","url":"https://jibllet.ir/fa/landing","recent":true},
+  {"date":"محصولات امروز","title":"کاپرمی","url":"https://copperme.ir/","recent":true},
+  {"date":"محصولات امروز","title":"یادبود شهید خطیب","url":"https://shahidkhatib.com/","recent":true},
+  {"date":"محصولات امروز","title":"راز جول","url":"https://raazjewel.ir/","recent":true},
+  {"date":"محصولات امروز","title":"سامانه تخصیص اعتبار","url":"https://arl.jibllet.ir/auth/login?returnUrl=%2Fdashboard","recent":true},
+  {"date":"محصولات امروز","title":"پله API؛ زیرساخت بازار فلزات ارزشمند","url":"https://peleapi.ir/","recent":true},
+  {"date":"محصولات امروز","title":"لیستمو","url":"https://listemo.ir/","recent":true,"breakAfter":true},
+  {"date":"مرداد ۱۳۹۷","title":"فروشگاه اینترنتی گوفکا"},
+  {"date":"آبان ۱۳۹۶","title":"سایت همایش ITTalks"},
+  {"date":"مرداد ۱۳۹۶","title":"سایت پروژه «ر»؛ راهنمای آموزشی"},
+  {"date":"تیر ۱۳۹۶","title":"بات تلگرامی پروژه «ر»؛ راهنمای آموزشی"},
+  {"date":"فروردین ۱۳۹۶","title":"بات تلگرام پخش هدف؛ باشگاه مشتریان"},
+  {"date":"اسفند ۱۳۹۵","title":"سامانه رأی‌گیری آنلاین مبتنی بر پست الکترونیکی"},
+  {"date":"مرداد ۱۳۹۴","title":"سایت دانشگاه آزاد اسلامی واحد سمنان"},
+  {"date":"فروردین ۱۳۹۴","title":"طاووس؛ طرح ایمنی و سلامت"},
+  {"date":"آبان ۱۳۹۳","title":"پروژه هرن"},
+  {"date":"آبان ۱۳۹۳","title":"درس‌پرداز؛ آموزش آنلاین گسترده (MOOC)"},
+  {"date":"شهریور ۱۳۹۳","title":"سامانه طرح اختلاط"},
+  {"date":"خرداد ۱۳۹۳","title":"مسابقه پل ماکارونی سمنان"},
+  {"date":"فروردین ۱۳۹۳","title":"سایت شخصی آیت‌الله سید محمد شاهچراغی"},
+  {"date":"اسفند ۱۳۹۲","title":"سامانه صنف پوشاک سمنان"},
+  {"date":"دی ۱۳۹۲","title":"سامانه طرح بازرسی ساپکو"},
+  {"date":"مهر ۱۳۹۲","title":"سامانه پست الکترونیکی دانشگاه آزاد اسلامی واحد سمنان"},
+  {"date":"مرداد ۱۳۹۲","title":"اپلیکیشن اندروید بارون رحمت"},
+  {"date":"تیر ۱۳۹۲","title":"سایت مسابقه بتن"},
+  {"date":"خرداد ۱۳۹۲","title":"سایت همایش امام هادی (ع)"},
+  {"date":"فروردین ۱۳۹۲","title":"راه‌اندازی اپلیکیشن موبایل خیریه مهد کرامت"},
+  {"date":"اسفند ۱۳۹۱","title":"راه‌اندازی سایت خیریه مهد کرامت"},
+  {"date":"اسفند ۱۳۹۱","title":"تشکیل گروه آروئین","origin":true}
 ]
